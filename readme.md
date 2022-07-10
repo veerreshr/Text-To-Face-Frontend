@@ -3,12 +3,12 @@
 
 A GAN based Text to face image Generator
 
-
+Google Colab Link For Backend: https://colab.research.google.com/drive/1Iuo86ubizK6RayEoMJD-h3XVO4w2i0pR?usp=sharing
 ## Demo
 
 Loom Video - https://www.loom.com/share/7c8ea9c1857b425eb2eec5c3fde88fda
 
-Refer for this report for more information https://drive.google.com/file/d/1xKCfA2luwf_rvEkriHgT0EePv7OoFAI3/view?usp=sharing
+Refer this report for more information https://drive.google.com/file/d/1xKCfA2luwf_rvEkriHgT0EePv7OoFAI3/view?usp=sharing
 
 
 
